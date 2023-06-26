@@ -8,4 +8,4 @@ Well-developed problem solving and communication skills through numerous job pos
 Also, have 6 months of non-commercial experience in Python, SQL, HTML and CSS. 
 Seeking to apply software engineering skill in conjunction with previous experience to start a career as a Software engineer.
 
-(https://as1.ftcdn.net/v2/jpg/02/34/28/32/1000_F_234283208_GsrzWhDLLFF10uxAKWZcHTAJi0Wtbtri.jpg)
+!(https://as1.ftcdn.net/v2/jpg/02/34/28/32/1000_F_234283208_GsrzWhDLLFF10uxAKWZcHTAJi0Wtbtri.jpg)
